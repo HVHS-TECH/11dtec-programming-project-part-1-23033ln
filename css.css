@@ -41,8 +41,8 @@
     margin: 0;
   }
    .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #ff0000;
+    color: rgb(255, 13, 195);
   }
   
   /* Create three unequal columns that floats next to each other */
