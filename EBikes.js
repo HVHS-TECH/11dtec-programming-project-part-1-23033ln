@@ -11,7 +11,7 @@ console.log("Running Website");
 /**************************** 
  *Main code
  ****************************/ 
-
+if (button)
 
 
 
