@@ -21,7 +21,7 @@ askQuestion= prompt("Do you want to rent this bike? /n Y for yes N for no");
 return();
 }
 function rentBike(){
-if (rentBike)
+askQuestion();
 }
 
 
