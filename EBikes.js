@@ -13,8 +13,12 @@ var askQuestion
  *Main code
  ****************************/ 
 function askQuestion(){
-askQuestion= prompt("Do you want to rent this bike? /n");
-} if (askQuestion =="Y" )
+askQuestion= prompt("Do you want to rent this bike? /n Y for yes N for no");
+} if (askQuestion =="Y" ){
+
+} else  {
+return();
+}
 function rentBike(){
 
 }
