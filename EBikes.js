@@ -8,7 +8,7 @@ console.log("Running Website");
 
 //variables
 var askQuestion
-var whats
+var askUserName
 
 /**************************** 
  *Main code
