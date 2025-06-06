@@ -13,8 +13,8 @@ var askQuestion
  *Main code
  ****************************/ 
 function askQuestion(){
-askQuestion= prompt("Do you want to rent this bike?"), askQuestion;
-} 
+askQuestion= prompt("Do you want to rent this bike? /n");
+} if (askQuestion =="Y" )
 function rentBike(){
 
 }
