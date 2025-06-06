@@ -6,11 +6,15 @@ Intro
 *****************************/
 console.log("Running Website");
 
-var 
 //variables
+var askQuestion
+
 /**************************** 
  *Main code
  ****************************/ 
+function askQuestion(){
+prompt("Do you want to rent this bike?");
+} if ()
 function rentBike(){
 
 }
