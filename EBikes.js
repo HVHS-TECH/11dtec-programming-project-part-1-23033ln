@@ -6,7 +6,7 @@ Intro
 *****************************/
 console.log("Running Website");
 
-
+var 
 //variables
 /**************************** 
  *Main code
